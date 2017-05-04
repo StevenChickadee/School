@@ -1,2 +1,2 @@
-# School
+# Snake
 Ahoj
